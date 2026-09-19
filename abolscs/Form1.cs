@@ -208,7 +208,7 @@ namespace abolscs
             /* atver failu */
             try
             {
-                fails = new StreamReader("rāmji.txt");
+                fails = new StreamReader("ramji.txt");
             }
             catch (Exception e)
             {
